@@ -6,7 +6,7 @@ const Header = () => {
 
       <div className="flex items-center space-x-2">
         <div className="w-6 h-6 bg-lime-200 rounded-sm"></div>
-        <span className="text-lg font-semibold">Collweb</span>
+        <span className="text-lg font-semibold">LinkDisplay</span>
       </div>
 
 
